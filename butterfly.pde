@@ -1,7 +1,7 @@
 /*
    want to be the a butterfly
  */
-int tamacolor[] = {0, 0, 0, 1, 1, 1, 2, 2, 2};
+int tamacolor[] = {0, 0, 0, 1, 1, 1, 2, 2, 2};//color
 int tamax[] = {100, 100, 100, 300, 400, 500, 700, 700, 700};
 int tamay[] = {200, 300, 400, 700, 700, 700, 200, 300, 400};
 int tamanum = 9;
