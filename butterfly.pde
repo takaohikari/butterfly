@@ -129,7 +129,7 @@ textSize(60);
 textAlign(CENTER);
 text("Thank you!!",400,1000-y);
 text("See you Again!",400,1550-y);
-text("[I want to be a butterfly.] ",400,2150-y);
+text("[butterfly] ",400,2150-y);
 fill(255,0,0);
 textSize(30);
 text("when you click,this program is end.",400,2200-y);
