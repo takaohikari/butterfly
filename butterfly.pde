@@ -147,6 +147,7 @@ void food(float mx,float my){
  textSize(60);
  textAlign(CENTER);
  text("I'm very hungry!!",400,70);
+ text("Please move me!",400,130);
   for(int i=0;i<foodnum;i++){
   if(dist(mx-100,my,foodx[i],foody[i])<65){
   colors[i]=3;
