@@ -1,7 +1,8 @@
 # butterfly
 
 The caterpillar is very hungry.
-There are nine foods.
-Each have color,red,green,or blue.
-When the caterpillar eat three it,the caterpiller become the butterfly!
-Its color depending on the thing caterpiller eat.
+There are nine kinds of food.
+Each has color,red,green,or blue.
+When the caterpillar eats three of them,the caterpiller becomes the butterfly!
+Its color depends on the thing caterpiller eats.
+The butterfly shows wings in various colors.
